@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="7rNGOSug0K6QL0VH8BAL">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="500" pageHeight="300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ubq7cb-_Oru6n3XhRPib-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rotation=0;" value="Vítima" vertex="1">
+          <mxGeometry height="130" width="80" x="560" y="-210" as="geometry" />
+        </mxCell>
+        <mxCell id="AVjOGsNXvzx4rdVJVYhb-5" edge="1" parent="1" source="ubq7cb-_Oru6n3XhRPib-3" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="980" y="-70" as="sourcePoint" />
+            <mxPoint x="804.9337925307557" y="-204.11551707617969" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubq7cb-_Oru6n3XhRPib-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="900" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AVjOGsNXvzx4rdVJVYhb-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Realizar cadastro" vertex="1">
+          <mxGeometry height="80" width="120" x="1030" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="ubq7cb-_Oru6n3XhRPib-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="1620" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVjOGsNXvzx4rdVJVYhb-11" edge="1" parent="1" source="AVjOGsNXvzx4rdVJVYhb-7" style="endArrow=open;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1.017;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.083;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1020" y="-210" as="sourcePoint" />
+            <mxPoint x="922.04" y="-212.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AVjOGsNXvzx4rdVJVYhb-15" connectable="0" parent="AVjOGsNXvzx4rdVJVYhb-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;includ&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0339" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AVjOGsNXvzx4rdVJVYhb-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Efetuar login" vertex="1">
+          <mxGeometry height="80" width="120" x="800" y="-250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
